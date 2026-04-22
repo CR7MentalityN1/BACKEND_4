@@ -13,7 +13,7 @@ public enum Universe
 }
 public class Hero
 {
-    public int id { get; set; }
+    public int Id { get; set; }
     [JsonPropertyName("name")]
     public string Name { get; set; } = string.Empty;
     public string RealName { get; set; } = string.Empty;
