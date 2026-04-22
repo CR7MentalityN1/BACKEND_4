@@ -1,4 +1,3 @@
-using System.text.Json.Serialization;
 using System.Text.Json.Serialization;
 namespace HeroesApi.Models;
 
